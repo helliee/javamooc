@@ -2,7 +2,7 @@ package Part2Section4;
 
 import java.util.Scanner;
 
-public class DivisionByThree {
+public class DivisibleByThree {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
